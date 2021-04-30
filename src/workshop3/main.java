@@ -15,6 +15,9 @@ public class main {
 
 		baseManager.update(user1);
 		baseManager.log();
+
+		baseManager.delete(user1);
+		baseManager.log();
 		
 		
 		
